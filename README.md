@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrezerMakina
 - 👀 I’m interested in C++ and Python programming
-- 🌱 I’m currently learning information systems at MUBAS
+- 🌱 I’m currently studying Management Information systems at MUBAS
 - 💞️ I’m looking to collaborate on several C++ and Python programs
 - 📫 You can reach me by emailing to makinafrezer@gmail.com
 
