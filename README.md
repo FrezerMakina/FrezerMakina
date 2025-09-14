@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrezerMakina
-- 👀 I’m interested in C++ and Python programming
+- 👀 I’m interested in Django and Python programming
 - 🌱 I’m currently studying Management Information systems at MUBAS
-- 💞️ I’m looking to collaborate on several C++ and Python programs
+- 💞️ I’m looking to collaborate on Django and Python programs
 - 📫 You can reach me by emailing to makinafrezer@gmail.com
 
 <!---
